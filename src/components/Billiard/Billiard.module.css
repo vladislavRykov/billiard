@@ -1,0 +1,5 @@
+.canvas {
+  border: 8px solid rgb(75, 21, 21);
+  background-color: rgb(14, 100, 14);
+  box-shadow: inset 0px 0px 12px 10px rgb(2, 58, 2);
+}
